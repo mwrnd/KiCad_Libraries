@@ -2,6 +2,8 @@
 
 KiCad Symbols and Footprints
 
+These symbols and footprints have NOT been tested on working projects.
+
 
 ## KiCad Symbols
 
