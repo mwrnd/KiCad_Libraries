@@ -24,7 +24,7 @@ TX are inputs as the data will be sent over the Optical/Copper Interface Cable. 
 
 [OpenCAPI AAC](https://files.openpower.foundation/s/xSQPe6ypoakKQdq/download/25Gbps-spec-20171108.pdf)
 
-Note that a [SlimSAS 8x](https://web.archive.org/web/20210121175017/https://www.sfpcables.com/24g-internal-slimsas-sff-8654-to-sff-8654-8i-cable-straight-to-90-degree-left-angle-8x-12-sas-4-0-85-ohm-0-5-1-meter) cable flips rows. Row A becomes B and vice versa. Use the symbol that is opposite to the one you will connect to. If you intend to connect your design to a board with the Carrier (Add-In Card) symbol, use the Host symbol in your design. TX and RX are relative to the symbol. TX for Host gets flipped by cable into RX for Carrier. **Please confirm with yourself before using the symbol!**
+Note that a [SlimSAS 8x](https://web.archive.org/web/20210121175017/https://www.sfpcables.com/24g-internal-slimsas-sff-8654-to-sff-8654-8i-cable-straight-to-90-degree-left-angle-8x-12-sas-4-0-85-ohm-0-5-1-meter) cable flips rows. Row A becomes B and vice versa. Use the symbol that is opposite to the one you will connect to. If you intend to connect your design to a board with the Carrier (Add-In Card) symbol, use the Host symbol in your design. TX and RX are relative to the symbol. TX for Host gets flipped by cable into RX for Carrier. **Please confirm this yourself before using the symbol!**
 
 ![OpenCAPI AAC](img/OpenCAPI_AAC_Symbols.png)
 
