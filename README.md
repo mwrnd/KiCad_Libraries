@@ -70,3 +70,9 @@ Note OpenCAPI uses [SlimSAS 8i 85ohm Cables](https://web.archive.org/web/2021012
 ![SlimSAS 8x](img/SlimSAS_8x_Footprint.png)
 
 
+
+
+### MEC8-113-02-L-D-RA1 Board Edge Connector
+
+[MEC8 Right-Angle](https://www.samtec.com/products/mec8-ra) 26-Pin [(2x13) Connector](http://suddendocs.samtec.com/prints/mec8-1xx-d-ra-mkt.pdf).
+
