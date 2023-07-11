@@ -2,7 +2,7 @@
 
 KiCad Symbols and Footprints
 
-These symbols and footprints have **NOT** yet been tested on working projects.
+Some of these symbols and footprints have **NOT** yet been tested on working projects.
 
 
 ## KiCad Symbols
@@ -23,6 +23,8 @@ TX are inputs as the data will be sent over the Optical/Copper Interface Cable. 
 ### Alveo U25 Debug Connector
 
 Pinout was [manually traced](https://github.com/mwrnd/notes/blob/main/Alveo_U25/debug_log.md#figuring-out-the-jtag-debug-connector).
+
+Successfully used by the [Alveo U25 JTAG Adapter project](https://github.com/mwrnd/AlveoU25_JTAG_Adapter).
 
 ![Alveo U25 Debug Connector](img/Alveo_U25_Debug_Connector_MEC8-113-L-D.png)
 
@@ -86,4 +88,8 @@ Note OpenCAPI uses [SlimSAS 8i 85ohm Cables](https://web.archive.org/web/2021012
 ### MEC8-113-02-L-D-RA1 Board Edge Connector
 
 [MEC8 Right-Angle](https://www.samtec.com/products/mec8-ra) 26-Pin [(2x13) Connector](http://suddendocs.samtec.com/prints/mec8-1xx-d-ra-mkt.pdf).
+
+Successfully used by the [Alveo U25 JTAG Adapter project](https://github.com/mwrnd/AlveoU25_JTAG_Adapter).
+
+![MEC8-113-L-D-RA Footprint](img/MEC8-113-L-D-RA_Footprint.png)
 
