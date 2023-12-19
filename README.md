@@ -22,7 +22,7 @@ TX are inputs as the data will be sent over the Optical/Copper Interface Cable. 
 
 ### Alveo U25 Debug Connector
 
-Pinout was [manually traced](https://github.com/mwrnd/notes/blob/main/Alveo_U25/debug_log.md#figuring-out-the-jtag-debug-connector).
+Pinout was [manually traced](https://github.com/mwrnd/alveo_u25_notes/blob/main/debug_log.md#figuring-out-the-jtag-debug-connector).
 
 Successfully used by the [Alveo U25 JTAG Adapter project](https://github.com/mwrnd/AlveoU25_JTAG_Adapter).
 
