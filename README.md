@@ -44,6 +44,13 @@ Note that a [SlimSAS 8x](https://web.archive.org/web/20210121175017/https://www.
 
 
 
+### SY75572L
+
+[SY75572L](https://www.microchip.com/en-us/product/sy75572l) is a Differential Clock MUX and Fanout Buffer with 2 inputs and 2 outputs used for PCIe Clock selection and distribution.
+
+![SY75572L](img/SY75572L_Symbol.png)
+
+
 
 
 ## KiCad Footprints
