@@ -46,7 +46,7 @@ The Host Symbol is successfully used by the [OpenCAPI_Breakout](https://github.c
 
 When used with Innova-2 Flex MNV303212A Rev.A2 boards, differential pairs Tx0, Tx3, and Tx4 have their terminals swapped.
 
-![OpenCAPI AAC Host and the MNV303212A RevA2](OpenCAPI_AAC_Host_and_MNV303212A_RevA2.png)
+![OpenCAPI AAC Host and the MNV303212A RevA2](img/OpenCAPI_AAC_Host_and_MNV303212A_RevA2.png)
 
 
 
@@ -89,7 +89,9 @@ Based on [U90-A111-1001](https://www.digikey.com/en/products/detail/amphenol-cs-
 
 [PCI-Express 6-Pin Power](https://en.wikipedia.org/wiki/PCI_Express#Power) connector.
 
-Based on [2-1775099-1](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2-1775099-1/5272791)
+Based on [2-1775099-1](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2-1775099-1/5272791).
+
+Current version requires significant force to push into mounting pads but this may be a manufacturing issue. Consider enlarging the mounting post drill holes.
 
 Use *Conn_02x03_Counter_Clockwise_MountingPin* included with KiCad as the schematic symbol.
 
