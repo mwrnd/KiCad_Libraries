@@ -76,6 +76,10 @@ When used with Innova-2 Flex MNV303212A Rev.A2 boards, differential pairs Tx0, T
 
 **Current Version is not compatible with the QSFP Cage Mounting Holes**
 
+QSFP Cage Mounting pads are incorrect but the cage I have does not appear to be compatible with the datasheet footprint either.
+
+![QSFP Footprint Footprint Error](img/QSFP_Footprint_Footprint_Error.jpg)
+
 [QSFP](https://en.wikipedia.org/wiki/Small_Form-factor_Pluggable#QSFP) connector with Cage
 
 Based on [U90-A111-1001](https://www.digikey.com/en/products/detail/amphenol-cs-commercial-products/U90-A111-1001/3464977)
